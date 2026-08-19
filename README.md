@@ -28,7 +28,7 @@ Meu foco é construir aplicações funcionais, organizadas e escaláveis — con
 
 - 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas — *Etec Philadelpho Gouvêa Netto*.
 - 💻 **Áreas de Interesse:** Desenvolvimento Web Full Stack, Arquitetura de Software e Modelagem de Dados.
-- ⚙️ **Práticas & Engenharia:** Estruturação em padrão MVC, persistência com ORM (Sequelize), consumo de APIs e versionamento semântico com Git.
+- ⚙️ **Práticas & Engenharia:** Estruturação em padrão MVC, persistência com ORM (Prisma), consumo de APIs e versionamento semântico com Git.
 - 🎯 **Objetivo:** Ingressar no mercado de tecnologia, colaborar com times ágeis e transformar conhecimento técnico em produtos de impacto.
 
 ---
@@ -43,7 +43,7 @@ Meu foco é construir aplicações funcionais, organizadas e escaláveis — con
 <br/>
 
 #### Back-end & Banco de Dados
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql,mariadb,sequelize" alt="Back-end e Banco de Dados" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql,mariadb,prisma" alt="Back-end e Banco de Dados" />
 
 <br/>
 
@@ -61,7 +61,7 @@ Meu foco é construir aplicações funcionais, organizadas e escaláveis — con
 
 * **Contexto & Desafio:** Substituir fluxos manuais e descentralizados (comandas em papel, controle de estoque físico e falta de conciliação financeira) por uma solução centralizada, ágil e livre de inconsistências.
 * **A Solução:** Uma plataforma web completa que integra ponto de venda (PDV), fluxo de caixa, controle de estoque em tempo real e relatórios operacionais para apoio à tomada de decisão.
-* **Stack Utilizada:** `Node.js` • `Express` • `JavaScript` • `EJS` • `MariaDB / MySQL` • `Sequelize ORM` • `Bootstrap`
+* **Stack Utilizada:** `Node.js` • `Express` • `JavaScript` • `EJS` • `MariaDB / MySQL` • `Prisma ORM` • `Bootstrap`
 * **Competências Aplicadas:**
   - Levantamento de requisitos e prototipação de telas (Figma).
   - Modelagem relacional de banco de dados (MER/DER) e migrações.
@@ -83,7 +83,7 @@ Meu foco é construir aplicações funcionais, organizadas e escaláveis — con
   ┌──────────────┐       ┌──────────────┐       ┌──────────────┐
   │ • HTML / CSS │       │ • Node.js    │       │ • MariaDB    │
   │ • JavaScript │ ────► │ • Express    │ ────► │ • MySQL      │
-  │ • React      │       │ • EJS / Java │       │ • Sequelize  │
+  │ • React      │       │ • EJS / Java │       │ • Prisma ORM │
   │ • Bootstrap  │       └──────────────┘       └──────────────┘
   └──────────────┘              ▲
                                 │
@@ -94,34 +94,6 @@ Meu foco é construir aplicações funcionais, organizadas e escaláveis — con
 ```
 
 > *"Desenvolver software vai além de escrever código: trata-se de entender a integração entre as camadas, manter a arquitetura limpa e entregar valor real."*
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/EnzoCosta000">
-    <img 
-      height="175em" 
-      src="https://github-readme-stats.vercel.app/api?username=EnzoCosta000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&border_radius=8" 
-      alt="Estatísticas do GitHub"
-    />
-    <img 
-      height="175em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCosta000&layout=compact&theme=tokyonight&langs_count=6&locale=pt-br&border_radius=8" 
-      alt="Linguagens mais utilizadas"
-    />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/EnzoCosta000">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoCosta000&theme=tokyonight&border_radius=8" 
-      alt="Sequência de Contribuições"
-    />
-  </a>
-</div>
 
 ---
 

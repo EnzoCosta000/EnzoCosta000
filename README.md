@@ -45,7 +45,7 @@ Atualmente, estou focado em fortalecer minha base como desenvolvedor e evoluir p
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="35"/>
 
-**MariaDB • MySQL • Sequelize**
+**MariaDB • MySQL • Prisma ORM**
 
 ### Ferramentas
 
@@ -137,8 +137,8 @@ Este GitHub funciona também como um registro da minha evolução: projetos anti
 ## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EnzoCosta000&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCosta000&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" />
 </p>
 
 ---
@@ -146,9 +146,9 @@ Este GitHub funciona também como um registro da minha evolução: projetos anti
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://github.com/EnzoCosta000">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
 ---

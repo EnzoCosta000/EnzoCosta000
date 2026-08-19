@@ -43,7 +43,7 @@ Meu foco é construir aplicações funcionais, organizadas e escaláveis — con
 <br/>
 
 #### Back-end & Banco de Dados
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql,mariadb,prisma" alt="Back-end e Banco de Dados" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql,prisma" alt="Back-end e Banco de Dados" />
 
 <br/>
 
